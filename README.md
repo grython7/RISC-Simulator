@@ -27,7 +27,7 @@ This project is a simple  RISC processor simulator implemented in C. The emulato
 
 ## Example
 
-- An example program has been provided in [program.txt](https://github.com/grython7/RISC-simulator/program.txt)
+- An example program has been provided in [program.txt](https://github.com/grython7/RISC-Simulator/blob/main/program.txt)
 
 ## Compilation and Execution
 
